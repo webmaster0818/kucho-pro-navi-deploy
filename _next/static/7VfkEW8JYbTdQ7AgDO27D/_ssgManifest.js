@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fguide\u002Fhorsepower\u002F[hp]","\u002Fguide\u002Ftype\u002F[shape]","\u002Findustry\u002F[slug]","\u002Fmaker\u002F[maker]","\u002Fmaker\u002F[maker]\u002F[series]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
